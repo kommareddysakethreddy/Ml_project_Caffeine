@@ -1,8 +1,19 @@
 # Problem Statement 
+List of drinks that generally contains caffeine. Some instances are not drinks exactly. Ground coffee or tea leafs would produce that amount of Volume (ml) if prepared according to the provider. They don't have calories since you can control the sugar level.
+
+
+
+Atributes
+drink: Drink's name.
+Volume (ml): Volume quantity.
+Calories: Calories quantity.
+Caffeine (mg): Caffeine quantity.
+type: Drink's type. (Coffe, Energy Drinks, Energy Shots, Soft Drinks, Tea, Water)
+
 
 
 ## Dataset
-(https://www.kaggle.com/heitornunes/caffeine-content-of-drinks/download)
+source: (https://www.kaggle.com/heitornunes/caffeine-content-of-drinks/download)
 The 5 class labels are:
 
 drink: Name of the drink
